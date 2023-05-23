@@ -1,0 +1,49 @@
+D:\INTECH\Hasaki project\Intech software\Hasaki software\bin\Debug\Intech software.exe.config
+D:\INTECH\Hasaki project\Intech software\Hasaki software\bin\Debug\Intech software.exe
+D:\INTECH\Hasaki project\Intech software\Hasaki software\bin\Debug\Cognex.DataMan.CogNamer.PC.dll
+D:\INTECH\Hasaki project\Intech software\Hasaki software\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.dll
+D:\INTECH\Hasaki project\Intech software\Hasaki software\bin\Debug\Cognex.DataMan.SDK.PC.dll
+D:\INTECH\Hasaki project\Intech software\Hasaki software\bin\Debug\Cognex.DataMan.SDK.Utils.PC.dll
+D:\INTECH\Hasaki project\Intech software\Hasaki software\bin\Debug\EasyModbus.dll
+D:\INTECH\Hasaki project\Intech software\Hasaki software\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+D:\INTECH\Hasaki project\Intech software\Hasaki software\bin\Debug\Cognex.DataMan.SDK.PC.xml
+D:\INTECH\Hasaki project\Intech software\Hasaki software\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+D:\INTECH\Hasaki project\Intech software\Hasaki software\bin\Debug\EasyModbus.xml
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech software.csproj.AssemblyReference.cache
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech software.csproj.SuggestedBindingRedirects.cache
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech software.csproj.ResolveComReference.cache
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech_software.GUI.frmHome.resources
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech_software.GUI.frmInBound.resources
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech_software.GUI.frmOutBound.resources
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech_software.GUI.frmReconnecting.resources
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech_software.GUI.frmServerConnection.resources
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech_software.GUI.frmUser.resources
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech_software.Properties.Resources.resources
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech software.csproj.GenerateResource.cache
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech software.csproj.CoreCompileInputs.cache
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech software.csproj.CopyComplete
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech software.exe
+D:\INTECH\Hasaki project\Intech software\Hasaki software\obj\Debug\Intech software.pdb
+D:\INTECH\Hasaki project\Intech software\Hasaki software\bin\Debug\Intech software.pdb
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\bin\Debug\Intech software.exe.config
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\bin\Debug\Intech software.exe
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\bin\Debug\Intech software.pdb
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\bin\Debug\Cognex.DataMan.SDK.PC.xml
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\bin\Debug\EasyModbus.xml
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech software.csproj.AssemblyReference.cache
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech software.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech software.csproj.ResolveComReference.cache
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech_software.GUI.frmHome.resources
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech_software.GUI.frmInBound.resources
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech_software.GUI.frmOutBound.resources
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech_software.GUI.frmReconnecting.resources
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech_software.GUI.frmServerConnection.resources
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech_software.GUI.frmUser.resources
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech_software.Properties.Resources.resources
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech software.csproj.GenerateResource.cache
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech software.csproj.CoreCompileInputs.cache
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech software.csproj.CopyComplete
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech software.exe
+C:\Users\Linh\Desktop\IntechSoftware_19_05_2023\Intech software\Hasaki software\obj\Debug\Intech software.pdb
